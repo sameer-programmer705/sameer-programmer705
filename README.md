@@ -183,14 +183,6 @@ Moving into the decentralised web: wallets, smart contracts and on-chain apps on
 <img src="https://streak-stats.demolab.com?user=sameer-programmer705&hide_border=true&background=05060f&ring=00F0FF&fire=8B5CF6&currStreakLabel=00F0FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" width="70%" alt="Contribution streak" />
 </div>
 
-## `06` // Contribution Graph
-
-<div align="center">
-<img src="https://ghchart.rshah.org/8b5cf6/sameer-programmer705" width="100%" alt="Contribution graph" />
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8B5CF6,100:05060f&height=110&section=footer" width="100%" alt="Footer" />
 </div>
