@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Sameer Tanoli, Full Stack, AI Automation, DevOps" />
+  <img src="assets/banner-web3.png" width="100%" alt="Sameer Tanoli, Full Stack, AI Automation, DevOps" />
 
   <a href="https://github.com/sameer-programmer705">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=00F0FF&center=true&vCenter=true&width=760&lines=%3E+ship+production+Laravel+%2B+React+platforms;%3E+orchestrate+AI+voice+agents+and+automations;%3E+build+APIs+with+NestJS%2C+Next.js+and+Node;%3E+containerise+and+deploy+everything+with+DevOps;%3E+ready+for+the+decentralised+web" alt="Typing animation" />
@@ -38,7 +38,7 @@ const sameer: Engineer = {
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="assets/portrait-card.png" width="100%" alt="Sameer Tanoli" />
+<img src="assets/portrait-web3.png" width="100%" alt="Sameer Tanoli" />
 
 </td>
 </tr>
