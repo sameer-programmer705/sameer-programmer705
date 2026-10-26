@@ -151,27 +151,45 @@ Moving into the decentralised web: wallets, smart contracts and on-chain apps on
 
 ## `05` // GitHub Analytics
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-readme-stats.vercel.app/api?username=sameer-programmer705&show_icons=true&hide_border=true&bg_color=05060f&title_color=00F0FF&icon_color=8B5CF6&text_color=c9d1d9&ring_color=00F0FF" width="100%" alt="GitHub stats" />
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-programmer705&layout=compact&hide_border=true&bg_color=05060f&title_color=00F0FF&text_color=c9d1d9" width="100%" alt="Top languages" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameer-programmer705&theme=tokyonight" width="100%" alt="Profile details" />
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameer-programmer705&theme=tokyonight" width="100%" alt="Languages by repo" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameer-programmer705&theme=tokyonight" width="100%" alt="Languages by commit" />
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sameer-programmer705&theme=tokyonight&utcOffset=5" width="100%" alt="Commits by time of day" />
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=sameer-programmer705&show_icons=true&hide_border=true&bg_color=05060f&title_color=00F0FF&icon_color=8B5CF6&text_color=c9d1d9&ring_color=00F0FF" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-programmer705&layout=compact&hide_border=true&bg_color=05060f&title_color=00F0FF&text_color=c9d1d9" alt="Top languages" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameer-programmer705&theme=tokyonight" width="48%" alt="Profile details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameer-programmer705&theme=tokyonight" width="48%" alt="Languages by repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameer-programmer705&theme=tokyonight" width="48%" alt="Languages by commit" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sameer-programmer705&theme=tokyonight&utcOffset=5" width="48%" alt="Commits by time of day" />
-
-<img src="https://streak-stats.demolab.com?user=sameer-programmer705&hide_border=true&background=05060f&ring=00F0FF&fire=8B5CF6&currStreakLabel=00F0FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer-programmer705&bg_color=05060f&color=00F0FF&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6&hide_border=true" width="100%" alt="Activity graph" />
-
+<br>
+<img src="https://streak-stats.demolab.com?user=sameer-programmer705&hide_border=true&background=05060f&ring=00F0FF&fire=8B5CF6&currStreakLabel=00F0FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" width="70%" alt="Contribution streak" />
 </div>
 
-## `06` // Trophies
+## `06` // Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sameer-programmer705&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub trophies" />
+<img src="https://ghchart.rshah.org/8b5cf6/sameer-programmer705" width="100%" alt="Contribution graph" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8B5CF6,100:05060f&height=110&section=footer" width="100%" alt="Footer" />
