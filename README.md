@@ -48,7 +48,7 @@ const sameer: Engineer = {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/GMAIL-0b1020?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0b1020&color=1d2a4a)](mailto:creatixmarketinglondon@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-0b1020?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0b1020&color=1d2a4a)](mailto:sameercoder0@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-0b1020?style=for-the-badge&logo=github&logoColor=8B5CF6&labelColor=0b1020&color=1d2a4a)](https://github.com/sameer-programmer705)
 
 </div>
